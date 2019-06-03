@@ -31,6 +31,8 @@ Cuando compartimos esta situación hipotética dentro de nuestra investigación,
 
 Es cómo cuando tenias que ir a los bancos a realizar alguna tranferencia o pago, lo cual te tomaba un tiempo innecesario en estar parado o sentado mirando la cara de desconocidos; llevas años haciendo esto y de repente tu sobrino "zellenial" (18 años) te cuenta que estas operaciones las puedes realizar a través de una app en menos de 3 minutos - pongámoslo a prueba -.
 
+![process](https://user-images.githubusercontent.com/45070944/58825908-0b0ef980-8605-11e9-9b4a-19f5d8e4e370.png)
+
 De igual forma, la Municipalidad de miraflores actualmente cuenta con un sistema electrónico que recepciona las quejas en su web oficial y éstas a sus vez son canalizadas por el área responsable de la etapa instructiva, donde son los Arquitectos quienes tienen la responsbailidad de tomar acción inmediata  en cada uno de los casos y responder al vecino en un lapso de 24 horas.
 
 En un día de trabajo regular, los arquitectos reciben 80% de quejas fisicas frente a un 20% de las que llegan a través del canal digital. El mayor volúmen de cartas es atendido en un promedio de 4 a 6 días  y esto se debe a las distintas instancias por las que debe pasar antes de ser atendidas por el arquitecto de turno, esta situación conlleva a impactos negativos para el desarrollo de las actividades cotidianas de más de una persona. Durante las entrevistas a funcionarios, recogimos las siguientes declaraciones:
@@ -72,6 +74,6 @@ Integrando nuestra investigación sobre los usuarios, las tendencias y la partic
 
 Finalmente, la iteración nos permitió realizar cambios rápidos en la propuesta de solución. La idea central que presentamos al Alcalde y a la Subgerencia de Control y Fiscalización se enfocó en el insight de capacitaciones, proponiendo la realización de "Fortaleciendo Habilidades", taller vecinal, que permita desarrollar las distintas habilidades de los colaboradores de esta subgerencia respaldados por la transformación digital.
 
-(AQUÍ VA IMAGEN DEL PROCESO)
+[Video](https://drive.google.com/file/d/1GIH0V2kTXvJLnAjDcn1OOsJLpuPWHnL1/view)
 
 ### Recomendaciones
